@@ -1,6 +1,6 @@
 ## Plotly on GitHub Pages
 
-[graph](https://github.com/de-eb/HelloGitHubPages/blob/pages/docs/test.html)
+{% include test.html %}
 
 <!-- You can use the [editor on GitHub](https://github.com/de-eb/HelloGitHubPages/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
